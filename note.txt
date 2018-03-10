@@ -1,0 +1,4 @@
+npm install --save commander
+
+npm install --save co co-prompt
+

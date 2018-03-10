@@ -1,0 +1,30 @@
+{
+  "name": "psc",
+  "version": "1.0.0",
+  "description": "A command-line tool for creating Bitbucket snippets.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bunlong/psc.git"
+  },
+  "keywords": [
+    "psc"
+  ],
+  "author": "Bunlong",
+  "license": " Apache-2.0",
+  "bin": {
+    "psc": "./index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/Bunlong/psc/issues"
+  },
+  "homepage": "https://github.com/Bunlong/psc#readme",
+  "dependencies": {
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.15.0"
+  }
+}
