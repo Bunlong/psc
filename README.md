@@ -1,14 +1,14 @@
-# PSC
+## Usage
 
 ```
-psc [options] <file>
+  psc [options] <file>
 
-  Options:
+    Options:
 
-    -h, --help                 output usage information
-    -u, --username <username>  the user to authenticate as
-    -p, --password <password>  the user's password
-    -b, --browser              open the snippet in the system browser
+      -h, --help                 output usage information
+      -u, --username <username>  the user to authenticate as
+      -p, --password <password>  the user's password
+      -b, --browser              open the snippet in the system browser
 ```
 
 ## Installation
