@@ -23,8 +23,11 @@
   },
   "homepage": "https://github.com/Bunlong/psc#readme",
   "dependencies": {
+    "chalk": "^2.3.2",
     "co": "^4.6.0",
     "co-prompt": "^1.0.0",
-    "commander": "^2.15.0"
+    "commander": "^2.15.0",
+    "progress": "^2.0.0",
+    "superagent": "^3.8.2"
   }
 }

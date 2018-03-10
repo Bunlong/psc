@@ -2,3 +2,8 @@ npm install --save commander
 
 npm install --save co co-prompt
 
+npm install --save superagent
+
+npm install --save chalk
+
+npm install --save progress
