@@ -1,4 +1,4 @@
-# 
+# PSC
 
 ```
 psc [options] <file>
@@ -13,7 +13,7 @@ psc [options] <file>
 
 ## Installation
 
-* Install Node.js and npm
+* Install [Node.js](https://nodejs.org/en "Node.js") and [npm](https://www.npmjs.com "npm")
 
 * Run `npm install -g psc`
 
