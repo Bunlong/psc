@@ -1,3 +1,4 @@
+# PSC
 
 PSC is a CLI tool for publishing a local file as a Bitbucket Snippet.
 
