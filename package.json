@@ -1,6 +1,6 @@
 {
   "name": "psc-tool",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A command-line tool for creating Bitbucket snippets.",
   "main": "index.js",
   "scripts": {
