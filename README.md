@@ -19,7 +19,7 @@ PSC is a CLI tool for publishing a local file as a Bitbucket Snippet.
 
 * Install [Node.js](https://nodejs.org/en "Node.js") and [npm](https://www.npmjs.com "npm")
 
-* Run `npm install -g psc`
+* Run `npm install -g psc-tool`
 
 * Run `psc --help` or `psc some_file` to upload it to Bitbucket.
 
